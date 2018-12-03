@@ -99,8 +99,8 @@ minutes.
 BERT is a method of pre-training language representations, meaning that we train
 a general-purpose "language understanding" model on a large text corpus (like
 Wikipedia), and then use that model for downstream NLP tasks that we care about
-(like question answering). BERT outperforms previous methods because it is the
-first *unsupervised*, *deeply bidirectional* system for pre-training NLP.
+(like question answering). **BERT outperforms previous methods because it is the
+first *unsupervised*, *deeply bidirectional* system for pre-training NLP**.
 
 *Unsupervised* means that BERT was trained using only a plain text corpus, which
 is important because an enormous amount of plain text data is publicly available
